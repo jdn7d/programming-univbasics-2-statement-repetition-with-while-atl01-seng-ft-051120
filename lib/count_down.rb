@@ -5,3 +5,7 @@ while number > 0 do
   number -= 1
 end
 puts "Happy New Year!"
+
+name "Jessie"
+
+while
